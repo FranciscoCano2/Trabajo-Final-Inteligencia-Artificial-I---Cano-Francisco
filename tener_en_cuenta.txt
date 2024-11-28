@@ -1,0 +1,16 @@
+Consideraciones:
+- Las imagenes se deben sacar con fondo claro y buena luz, en lo posible con flash
+- Los audios deben ser claros, sobre todo el de zanahoria
+- Al seleccionar la opcion de entrenamiento los audios se deben enviar a la carpeta audios 
+y las imagenes a la carpeta verduras
+- Al seleccionar la opcion de agregar archivo nuevo, tanto audios como imagenes se deben
+enviar a la carpeta Archivos Nuevos
+
+
+Mejoras
+1 - optimizacion del codigo - aplicar correctamente POO
+2 - mejorar la secuencia de entrenamiento de audio e imagenes
+3 - mejorar la identificacion de imagenes y audios
+4 - mejorar la separacion de los clusters - imagenes y audios
+5 - agilizar la captura de imagenes y audios
+6 - armar interfaz grafica  
